@@ -6,19 +6,25 @@ Module-1-Challenge-ai-case-study
 
 ## Overview and Origin
 
-Construction is a tough work that is only getting tougher. With skilled workers retiring at a record rate, there is lack the workers needed for manual labor. This workforce gap leaves the construction industry in a constant state of catch-up. **Canvas Construction** focuses on drywall finishing process by reducing the number of days and manual labor that is required to achive the goal with a superb quality. Canvas Drywall finishing robot in the hands of skilled workers will revolutionize how buildings are built.
+Construction is a tough work that is only getting tougher. With skilled workers retiring at a record rate, there is lack the workers needed for manual labor. This workforce gap leaves the construction industry in a constant state of catch-up. **Canvas Construction** focuses on drywall finishing process by reducing the number of days and manual labor that is required to achive the goal with a superb quality. Canvas Drywall finishing robot in the hands of trade skilled workers will revolutionize how buildings are built.
 
-**Canvas** is faily new company and it started in 2017. It is primarily focused on construction industry. **Kevin Albert** is the co-founder and COE of the company. He focused on machines in his past. Kevin from a robotic field and he was always facinated by how robotics provided us with capabilities we did not have. Robotics brings in mechanical and software enginering together. *He learned how to design algorythms where a robotic walking dog can navigate through a terrain*. He compared this with construction environment where there are a lot uncertainty around you. Machines paired with Human takes the power from both sides. 
+## Business Activities & Landscape
 
-There were a few criteria the company looked at to come up with the design solution or what issue they are trying to address. 
+**Canvas** is faily new company and it started in 2017. It is primarily focused on construction industry. **Kevin Albert** is the co-founder and COE of the company. He focused on machines in his past. Kevin from a robotic field and he was always facinated by how robotics provided us with capabilities we did not have. Robotics brings in mechanical and software enginering together. *He learned how to design algorythms where a robotic walking dog can navigate through a terrain*. He compared this with construction environment where there are a lot uncertainties around you. Machines paired with Human takes the power from both sides. 
+
+There were a few criteria the company looked at to come up with the design solution or what issue they were trying to address. 
 
 * Dirty: This is always a messy work
 * Danger: Most drywall finisher end up at their retirement with orthopedic issues on the shoulders and arms, or even falling during work
-* Lack of innovation: How long there hasn't been any innovation
-* Repetition: It has been the same drywall, it is everywhere, and being finished the same way for decades.
+* Lack of innovation: How long there hasn't been any innovation on a particular problem
+* Repetition: It has been the same drywall, it is everywhere, and being finished the same way for at least 50 years.
+* *How is the company funded? How much funding have they received?*
 
 
-* How is the company funded? How much funding have they received?
+## How it works
+Canvas system uses computer vision and artificial intelligence to be able to recognize different seams and wall types, and identify where those seems are so that machine can profile a custome profile material. It takes conceptually less material and safer for tapers. The actual machine or device is built as a small or large scissor lift which can also reach higher walls as high as 40ft.
+
+Drywall finish is a multi-step process after hanging drywall panels and just before painting. This also includes filling the seams between the panels. If it is a person doing manual work, the steps involved are applying the tape and mud, then let it dry phase. Second step is to repeat mudding, sanding and dry again. These steps repeats at 3 times in order to achieve a smooth uniform surface of drywall prior to painting.
 
 ## Business Activities
 
@@ -32,15 +38,15 @@ There were a few criteria the company looked at to come up with the design solut
 
 ## Landscape
 
-* What field is the company in?
-
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
 * What are the other major companies in this field?
 
 ## Results
 
-* What has been the business impact of this company so far?
+
+Getting beutifully finished drywall on schedule and with budget got much easier.
+
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
