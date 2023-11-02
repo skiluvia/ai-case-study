@@ -22,9 +22,9 @@ There were a few criteria the company looked at to come up with the design solut
 
 
 ## How it works
-Canvas system uses computer vision and artificial intelligence to be able to recognize different seams and wall types, and identify where those seems are so that machine can profile a custome profile material. It takes conceptually less material and safer for tapers. The actual machine or device is built as a small or large scissor lift which can also reach higher walls as high as 40ft.
+Canvas system uses computer vision and artificial intelligence to be able to recognize different seams and wall types, and identify where those seems are; so that machine can profile a custome profile material. It takes conceptually less material and safer for tapers. The actual machine or device is built like a small or large scissor lift which can also reach higher walls as high as 40ft.
 
-Drywall finish is a multi-step process after hanging drywall panels and just before painting. This also includes filling the seams between the panels. If it is a person doing manual work, the steps involved are applying the tape and mud, then let it dry phase. Second step is to repeat mudding, sanding and dry again. These steps repeats at 3 times in order to achieve a smooth uniform surface of drywall prior to painting.
+Drywall finish is a multi-steps process after hanging drywall panels and just before painting. This includes filling the seams between the panels. If it is a person doing manual work, the steps involved are applying the tape and mud, then let it dry. Second step is to repeat mudding, sanding and letting it dry again. These steps repeat at least 3 times in order to achieve a smooth whole uniform surface of drywall.
 
 ## Business Activities
 
