@@ -1,22 +1,29 @@
 # ai-case-study
 Module-1-Challenge-ai-case-study
 
-# BUILT Robotics (CANVAS)
+# CANVAS
 ![Built Robotics](./images/buildroboticsimg.png?raw=true)
 
 ## Overview and Origin
 
-Construction is tough work that is only getting tougher. With skilled workers retiring at a record rate, we lack the workers needed to build critical infrastructure. This workforce gap leaves the construction industry in a constant state of catch-up as the safety of our roads, the resiliency of our energy, and the growth of our economy take a hit.
+Construction is a tough work that is only getting tougher. With skilled workers retiring at a record rate, there is lack the workers needed for manual labor. This workforce gap leaves the construction industry in a constant state of catch-up. **Canvas Construction** focus on drywall finishing process by reducing the number of days and manual labor that is required to achive the goal with a superb quality. Canvas Drywall finishing robot in the hands of skilled workers will revolutionize how buildings are built.
 
-Built believes that autonomy is the answer to narrowing the workforce gap and building with the same force construction had in the past. Robotics in the hands of skilled workers will revolutionize how we build: safer, smarter, and faster.
+Canvas is faily new company and it started in 2017. It is primarily focused on construction industry.
 
-BUILT Robotics (CANVAS) ia faily new company started in 2017. It is primarily focused on construction industry.
-
-* When was the company incorporated?
 
 * Who are the founders of the company?
+- Kevin Albert is the founder and COE of the company. He focused on machines
 
 * How did the idea for the company (or project) come about?
+- Kevin from a robotic field and he was alway facinated by how robotics provided us capabilities we did not have. Robotics brings in mechanical and software enginering together. He learned how to design alogorythms where a robotic walking dog can navigate through a terrain. He compared this with construction environment where there are a lot uncertainty. Machines paired with Human takes the power from both sides. 
+
+There were a few criteria the company looked at to come up with the design solution or what issue they are trying to address. 
+
+* Dirty: This is always a messy work
+* Danger: Most drywall finisher end up at their retirement with orthopedic issues on the shoulders and arms, or even falling during work
+* Lack of innovation: How long there hasn't been any innovation
+* Repetition: It has been the same drywall, it is everywhere, and being finished the same way for decades.
+
 
 * How is the company funded? How much funding have they received?
 
@@ -55,3 +62,6 @@ BUILT Robotics (CANVAS) ia faily new company started in 2017. It is primarily fo
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+Appendix
+* https://www.youtube.com/watch?v=WPiH_tpnozw
