@@ -6,7 +6,11 @@ Module-1-Challenge-ai-case-study
 
 ## Overview and Origin
 
-* BUILT Robotics (CANVAS) ia faily new company started in 2017. It is primarily focused on construction industry
+Construction is tough work that is only getting tougher. With skilled workers retiring at a record rate, we lack the workers needed to build critical infrastructure. This workforce gap leaves the construction industry in a constant state of catch-up as the safety of our roads, the resiliency of our energy, and the growth of our economy take a hit.
+
+Built believes that autonomy is the answer to narrowing the workforce gap and building with the same force construction had in the past. Robotics in the hands of skilled workers will revolutionize how we build: safer, smarter, and faster.
+
+BUILT Robotics (CANVAS) ia faily new company started in 2017. It is primarily focused on construction industry.
 
 * When was the company incorporated?
 
