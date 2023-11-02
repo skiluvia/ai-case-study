@@ -26,7 +26,7 @@ Canvas system uses computer vision and artificial intelligence to be able to rec
 
 Drywall finish is a multi-steps process after hanging drywall panels and just before painting. This includes filling the seams between the uneven panels. If it is a person doing manual work, the steps involved are applying the tape and mud, then let it dry. Second step is to repeat mudding, sanding and letting it dry again. These steps repeat at least 3 times in order to achieve a smooth whole uniform surface of drywall. This usually is a 5 to 7 days process depending on high quality outcome you desire.
 
-The canvas robotic machine is brought in after manual taping is done on day 1. Machine measures geographic landscape of the walls or room and does the calibration. It also maps out outlets or spaces. This allows the application of materials be applied accurately. This machine applies all needed compound on day one and let it dry. Sanding is done on day two and this can be done either by the machine itself using a detachable mechanism or separate tools which are always used for sanding. Sensors on the machine measures the depth of the different areas of the wall.
+The canvas robotic machine is brought in after manual taping is done on day 1. Machine measures geographic landscape of the walls or room and does the calibration. Sensors on the machine measures the depth of the different areas of the wall. It also maps out outlets or spaces. This allows the application of materials be applied accurately. This machine applies all needed compound on day one and let it dry. Sanding is done on day two and this can be done either by the machine itself using a detachable mechanism or separate tools which are always used for sanding.
 
 Changing the code and user interface as a user keep using the machine.
 
@@ -48,8 +48,7 @@ Changing the code and user interface as a user keep using the machine.
 
 ## Results
 
-
-Getting beutifully finished drywall on schedule and with budget got much easier.
+Getting beutifully finished drywall on schedule and with budget got much easier. Entire process is done in 2 days instead of 5 or 7 days. Comparing this to days where workers dug holes using a shovel until the excavator invention. Now instead of using trowels, buckets and pans, we are using machine. This increases productivity and safety.
 
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
