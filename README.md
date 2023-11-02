@@ -33,14 +33,6 @@ Compertitors are Robosurf which provides autonomous mobile robots and mobile rob
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-## Landscape
-
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
-* What are the other major companies in this field?
-
-
-
 ## How it works
 Canvas system uses computer vision and artificial intelligence to be able to recognize different seams and wall types, and identify where those seems are; so that machine can profile a custome profile material. It takes conceptually less material and safer for tapers. The actual machine or device is built like a small or large scissor lift which can also reach higher walls as high as 40ft.
 
