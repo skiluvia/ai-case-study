@@ -6,16 +6,9 @@ Module-1-Challenge-ai-case-study
 
 ## Overview and Origin
 
-Construction is a tough work that is only getting tougher. With skilled workers retiring at a record rate, there is lack the workers needed for manual labor. This workforce gap leaves the construction industry in a constant state of catch-up. **Canvas Construction** focus on drywall finishing process by reducing the number of days and manual labor that is required to achive the goal with a superb quality. Canvas Drywall finishing robot in the hands of skilled workers will revolutionize how buildings are built.
+Construction is a tough work that is only getting tougher. With skilled workers retiring at a record rate, there is lack the workers needed for manual labor. This workforce gap leaves the construction industry in a constant state of catch-up. **Canvas Construction** focuses on drywall finishing process by reducing the number of days and manual labor that is required to achive the goal with a superb quality. Canvas Drywall finishing robot in the hands of skilled workers will revolutionize how buildings are built.
 
-Canvas is faily new company and it started in 2017. It is primarily focused on construction industry.
-
-
-* Who are the founders of the company?
-- Kevin Albert is the founder and COE of the company. He focused on machines
-
-* How did the idea for the company (or project) come about?
-- Kevin from a robotic field and he was alway facinated by how robotics provided us capabilities we did not have. Robotics brings in mechanical and software enginering together. He learned how to design alogorythms where a robotic walking dog can navigate through a terrain. He compared this with construction environment where there are a lot uncertainty. Machines paired with Human takes the power from both sides. 
+Canvas is faily new company and it started in 2017. It is primarily focused on construction industry. *Kevin Albert* is the founder and COE of the company. He focused on machines in his past. Kevin from a robotic field and he was always facinated by how robotics provided us with capabilities we did not have. Robotics brings in mechanical and software enginering together. He learned how to design algorythms where a robotic walking dog can navigate through a terrain. He compared this with construction environment where there are a lot uncertainty around you. Machines paired with Human takes the power from both sides. 
 
 There were a few criteria the company looked at to come up with the design solution or what issue they are trying to address. 
 
