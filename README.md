@@ -10,7 +10,9 @@ Construction is a tough work that is only getting tougher. With skilled workers 
 
 ## Business Activities & Landscape
 
-**Canvas** is faily new company and it started in 2017. It is primarily focused on construction industry. **Kevin Albert** is the co-founder and COE of the company. He focused on machines in his past. Kevin from a robotic field and he was always facinated by how robotics provided us with capabilities we did not have. Robotics brings in mechanical and software enginering together. *He learned how to design algorythms where a robotic walking dog can navigate through a terrain*. He compared this with construction environment where there are a lot uncertainties around you. Machines paired with Human takes the power from both sides. 
+**Canvas** is faily new company and it was founded in 2017 and is based in San Francisco, California.. It is primary focused is construction industry. **Kevin Albert** is the co-founder and COE of the company. He focused on machines in his past. Kevin from a robotic field and he was always facinated by how robotics provided us with capabilities we did not have. Robotics brings in mechanical and software enginering together. *He learned how to design algorythms where a robotic walking dog can navigate through a terrain*. He compared this with construction environment where there are a lot uncertainties around you. Machines paired with Human takes the power from both sides.
+
+Canvas has been recognized by Forbes and Fortune on their top AI and start-up lists, respectively, and recently won the Pro Tools Innovation Award for Technology/Robotics.
 
 There were a few criteria the company looked at to come up with the design solution or what issue they were trying to address. 
 
@@ -18,23 +20,14 @@ There were a few criteria the company looked at to come up with the design solut
 * Danger: Most drywall finisher end up at their retirement with orthopedic issues on the shoulders and arms, or even falling during work
 * Lack of innovation: How long there hasn't been any innovation on a particular problem
 * Repetition: It has been the same drywall, it is everywhere, and being finished the same way for at least 50 years.
-* *How is the company funded? How much funding have they received?*
+
+The company has raised $24M yeas ago. It is reported that the company has 11 investors, some of them being Innovation Endeavors from New York, Brick & Mortar Ventures and Obvious Ventures both from California. Currently market is large commercial construction projects with large amount of drywall. The future of the company is to reach to smaller projects such as one at regular homes.
+
+Compertitors are Robosurf which provides autonomous mobile robots and mobile robot painters for surface finishing and spray painting; Dafang Intelligent Technology which focuses on the design and production of intelligent building construction equipment and a few more. The major difference Canvas has is the soe focus on mudding finishing stages.
 
 
-## How it works
-Canvas system uses computer vision and artificial intelligence to be able to recognize different seams and wall types, and identify where those seems are; so that machine can profile a custome profile material. It takes conceptually less material and safer for tapers. The actual machine or device is built like a small or large scissor lift which can also reach higher walls as high as 40ft.
 
-Drywall finish is a multi-steps process after hanging drywall panels and just before painting. This includes filling the seams between the uneven panels. If it is a person doing manual work, the steps involved are applying the tape and mud, then let it dry. Second step is to repeat mudding, sanding and letting it dry again. These steps repeat at least 3 times in order to achieve a smooth whole uniform surface of drywall. This usually is a 5 to 7 days process depending on high quality outcome you desire.
-
-The canvas robotic machine is brought in after manual taping is done on day 1. Machine measures geographic landscape of the walls or room and does the calibration. Sensors on the machine measures the depth of the different areas of the wall. It also maps out outlets or spaces. This allows the application of materials be applied accurately. This machine applies all needed compound on day one and let it dry. Sanding is done on day two and this can be done either by the machine itself using a detachable mechanism or separate tools which are always used for sanding.
-
-Changing the code and user interface as a user keep using the machine.
-
-## Business Activities
-
-* What specific problem is the company or project trying to solve?
-
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+* Is there any information about the market size of this set of customers?
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -45,6 +38,15 @@ Changing the code and user interface as a user keep using the machine.
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
 * What are the other major companies in this field?
+
+
+
+## How it works
+Canvas system uses computer vision and artificial intelligence to be able to recognize different seams and wall types, and identify where those seems are; so that machine can profile a custome profile material. It takes conceptually less material and safer for tapers. The actual machine or device is built like a small or large scissor lift which can also reach higher walls as high as 40ft.
+
+Drywall finish is a multi-steps process after hanging drywall panels and just before painting. This includes filling the seams between the uneven panels. If it is a person doing manual work, the steps involved are applying the tape and mud, then let it dry. Second step is to repeat mudding, sanding and letting it dry again. These steps repeat at least 3 times in order to achieve a smooth whole uniform surface of drywall. This usually is a 5 to 7 days process depending on high quality outcome you desire.
+
+The canvas robotic machine is brought in after manual taping is done on day 1. Machine measures geographic landscape of the walls or room and does the calibration. Sensors on the machine measures and senses the depth of the different areas of the wall by using AI and machine learning. Device used are 3D scannners, structured light camera and laser scanners. It also maps out outlets or spaces. This allows the application of materials be applied accurately. This machine applies all needed compound on day one and let it dry. Sanding is done on day two and this can be done either by the machine itself using a detachable mechanism or separate tools which are always used for sanding.
 
 ## Results
 
@@ -67,3 +69,8 @@ Getting beutifully finished drywall on schedule and with budget got much easier.
 
 Appendix
 * https://www.youtube.com/watch?v=WPiH_tpnozw
+* https://www.canvas.build/canvas-usg-partnership-aims-to-transform-drywall-industry/
+* https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20200269439
+* https://www.cbinsights.com/company/canvas-construction/financials
+* https://www.cbinsights.com/company/canvas-construction/alternatives-competitors
+
