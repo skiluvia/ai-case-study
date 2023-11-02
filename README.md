@@ -17,7 +17,7 @@ Canvas has been recognized by Forbes and Fortune on their top AI and start-up li
 There were a few criteria the company looked at to come up with the design solution or what issue they were trying to address. 
 
 * Dirty: This is always a messy work
-* Danger: Most drywall finisher end up at their retirement with orthopedic issues on their shoulders and arms, or even falling during work working at high places
+* Danger: Most drywall finishers end up at their retirement with orthopedic issues on their shoulders and arms, or even falling during work working at high places
 * Lack of innovation: How long there hasn't been any innovation on a particular problem or field
 * Repetition: It has been the same drywall, it is everywhere, and being finished the same way for at least 50 years.
 
