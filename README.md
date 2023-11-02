@@ -24,7 +24,11 @@ There were a few criteria the company looked at to come up with the design solut
 ## How it works
 Canvas system uses computer vision and artificial intelligence to be able to recognize different seams and wall types, and identify where those seems are; so that machine can profile a custome profile material. It takes conceptually less material and safer for tapers. The actual machine or device is built like a small or large scissor lift which can also reach higher walls as high as 40ft.
 
-Drywall finish is a multi-steps process after hanging drywall panels and just before painting. This includes filling the seams between the panels. If it is a person doing manual work, the steps involved are applying the tape and mud, then let it dry. Second step is to repeat mudding, sanding and letting it dry again. These steps repeat at least 3 times in order to achieve a smooth whole uniform surface of drywall.
+Drywall finish is a multi-steps process after hanging drywall panels and just before painting. This includes filling the seams between the uneven panels. If it is a person doing manual work, the steps involved are applying the tape and mud, then let it dry. Second step is to repeat mudding, sanding and letting it dry again. These steps repeat at least 3 times in order to achieve a smooth whole uniform surface of drywall. This usually is a 5 to 7 days process depending on high quality outcome you desire.
+
+The canvas robotic machine is brought in after manual taping is done on day 1. Machine measures geographic landscape of the walls or room and does the calibration. It also maps out outlets or spaces. This allows the application of materials be applied accurately. This machine applies all needed compound on day one and let it dry. Sanding is done on day two and this can be done either by the machine itself using a detachable mechanism or separate tools which are always used for sanding. Sensors on the machine measures the depth of the different areas of the wall.
+
+Changing the code and user interface as a user keep using the machine.
 
 ## Business Activities
 
