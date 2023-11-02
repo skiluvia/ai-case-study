@@ -21,7 +21,7 @@ There were a few criteria the company looked at to come up with the design solut
 * Lack of innovation: How long there hasn't been any innovation on a particular problem or field
 * Repetition: It has been the same drywall, it is everywhere, and being finished the same way for at least 50 years.
 
-The company has raised $24M yeas ago. It is reported that the company has 11 investors, some of them being Innovation Endeavors from New York, Brick & Mortar Ventures and Obvious Ventures both from California. Currently market is large commercial construction projects with large amount of drywall. The future of the company is to reach to smaller projects such as one at regular homes.
+The company has raised $24M years ago. It is reported that the company has 11 investors, some of them being **Innovation Endeavors** from New York, **Brick & Mortar Ventures** and **Obvious Ventures** both from California. Currently market is large commercial construction projects with large amount of drywall. The future of the company is to reach to smaller projects such as one at regular homes.
 
 Compertitors are Robosurf which provides autonomous mobile robots and mobile robot painters for surface finishing and spray painting; Dafang Intelligent Technology which focuses on the design and production of intelligent building construction equipment and a few more. The major difference Canvas has is the soe focus on mudding finishing stages.
 
