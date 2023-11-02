@@ -50,15 +50,7 @@ Canvas has supercharged its ability to provide better outcomes for workers and c
 
 ## Recommendations
 
-Currently this company only offers this solution to large projects which often tend to have funds fo the projects. I would recommend that they research on smaller versions of machine which can be used on tight rooms such as of apertment complexes or homes. There is also a huge shortage of labor on this market.
-
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+Currently this company only offers this solution to large projects which are owned by large corporations with funds. I would recommend that they research on smaller versions of robotic machines which can be used on tight spaces such as of apartment complexes or homes rooms. There is also a huge shortage of labor on this market. These machines can be purchased by Home Improvement stores for rentals by regular DIY or purchased by small business contractors. This may also introduce a need to simplify the control user interface for less skilled users or operators.
 
 ## Resources
 * https://www.youtube.com/watch?v=WPiH_tpnozw
