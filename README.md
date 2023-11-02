@@ -48,9 +48,6 @@ Getting beutifully finished drywall on schedule and with budget got much easier.
 
 Canvas has supercharged its ability to provide better outcomes for workers and customers by collecting, consolidating, and rationalizing data based on key job and performance metrics. Through data aggregation Canvas is able to provide all their stakeholders, field workers, superintendents, engineers, and customers with customized, data-driven measures of success. Formant’s data-centric approach has given Canvas the visibility and insights to grow and delight customers without taking their eyes off performance.
 
-
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
@@ -67,4 +64,6 @@ Appendix
 * https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20200269439
 * https://www.cbinsights.com/company/canvas-construction/financials
 * https://www.cbinsights.com/company/canvas-construction/alternatives-competitors
+* https://www.forbes.com/sites/ninawolpow/2021/04/15/robotics-startup-canvas-raises-24-million-to-revitalize-construction/?sh=2abe0cc61fdd
+
 
