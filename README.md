@@ -2,10 +2,11 @@
 Module-1-Challenge-ai-case-study
 
 # BUILT Robotics (CANVAS)
+![Built Robotics](images/image.png)
 
 ## Overview and Origin
 
-* Name of company
+* BUILT Robotics (CANVAS) ia faily new company started in 2017. It is primarily focused on construction industry
 
 * When was the company incorporated?
 
