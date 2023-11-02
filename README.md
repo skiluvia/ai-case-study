@@ -50,6 +50,8 @@ Canvas has supercharged its ability to provide better outcomes for workers and c
 
 ## Recommendations
 
+Currently this company only offers this solution to large projects which often tend to have funds fo the projects. I would recommend that they research on smaller versions of machine which can be used on tight rooms such as of apertment complexes or homes. There is also a huge shortage of labor on this market.
+
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
 * Why do you think that offering this product or service would benefit the company?
@@ -58,7 +60,7 @@ Canvas has supercharged its ability to provide better outcomes for workers and c
 
 * Why are these technologies appropriate for your solution?
 
-Appendix
+## Resources
 * https://www.youtube.com/watch?v=WPiH_tpnozw
 * https://www.canvas.build/canvas-usg-partnership-aims-to-transform-drywall-industry/
 * https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20200269439
