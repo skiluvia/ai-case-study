@@ -10,7 +10,7 @@ Construction is a tough work that is only getting tougher. With skilled workers 
 
 ## Business Activities & Landscape
 
-**Canvas** is faily new company and it was founded in 2017 and is based in San Francisco, California.. It is primary focused is construction industry. **Kevin Albert** is the co-founder and COE of the company. He focused on machines in his past. Kevin from a robotic field and he was always facinated by how robotics provided us with capabilities we did not have. Robotics brings in mechanical and software enginering together. *He learned how to design algorythms where a robotic walking dog can navigate through a terrain*. He compared this with construction environment where there are a lot uncertainties around you. Machines paired with Human takes the power from both sides.
+**Canvas** is a faily new company and it was founded in 2017 and is based in San Francisco, California.. It is primary focused is construction industry. **Kevin Albert** is the co-founder and COE of the company. He focused on machines in his past. Kevin from a robotic field and he was always facinated by how robotics provided us with capabilities we did not have. Robotics brings in mechanical and software enginering together. *He learned how to design algorythms where a robotic walking dog can navigate through a terrain*. He compared this with construction environment where there are a lot uncertainties around you. Machines paired with Human takes the power from both sides.
 
 Canvas has been recognized by Forbes and Fortune on their top AI and start-up lists, respectively, and recently won the Pro Tools Innovation Award for Technology/Robotics.
 
