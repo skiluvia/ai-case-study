@@ -25,14 +25,6 @@ The company has raised $24M years ago. It is reported that the company has 11 in
 
 Compertitors are Robosurf which provides autonomous mobile robots and mobile robot painters for surface finishing and spray painting; Dafang Intelligent Technology which focuses on the design and production of intelligent building construction equipment and a few more. The major difference Canvas has is the soe focus on mudding finishing stages.
 
-
-
-* Is there any information about the market size of this set of customers?
-
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
 ## How it works
 Canvas system uses computer vision and artificial intelligence to be able to recognize different seams and wall types, and identify where those seems are; so that machine can profile a custome profile material. It takes conceptually less material and safer for tapers. The actual machine or device is built like a small or large scissor lift which can also reach higher walls as high as 40ft.
 
