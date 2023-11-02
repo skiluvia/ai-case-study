@@ -36,6 +36,8 @@ Compertitors are Robosurf which provides autonomous mobile robots and mobile rob
 ## How it works
 Canvas system uses computer vision and artificial intelligence to be able to recognize different seams and wall types, and identify where those seems are; so that machine can profile a custome profile material. It takes conceptually less material and safer for tapers. The actual machine or device is built like a small or large scissor lift which can also reach higher walls as high as 40ft.
 
+Robots produce a lot of data — but finding the right data and rationalizing it is key. Canvas uses Formant’s observability interface as the single-pane-of-glass view of real-time and historical data. The platform captures and joins up the robot telemetry, video, screen capture, and human notes and tags to provide an integrated view of operations. The event-based navigation allows individuals to navigate the data like they would a DVR, rewinding and jumping to an event while maintaining context. Formant makes it easy to augment the data in real-time or upon review, with job tags and notes that align job key phases, and power downstream performance and efficiency metrics.
+
 Drywall finish is a multi-steps process after hanging drywall panels and just before painting. This includes filling the seams between the uneven panels. If it is a person doing manual work, the steps involved are applying the tape and mud, then let it dry. Second step is to repeat mudding, sanding and letting it dry again. These steps repeat at least 3 times in order to achieve a smooth whole uniform surface of drywall. This usually is a 5 to 7 days process depending on high quality outcome you desire.
 
 The canvas robotic machine is brought in after manual taping is done on day 1. Machine measures geographic landscape of the walls or room and does the calibration. Sensors on the machine measures and senses the depth of the different areas of the wall by using AI and machine learning. Device used are 3D scannners, structured light camera and laser scanners. It also maps out outlets or spaces. This allows the application of materials be applied accurately. This machine applies all needed compound on day one and let it dry. Sanding is done on day two and this can be done either by the machine itself using a detachable mechanism or separate tools which are always used for sanding.
@@ -44,10 +46,10 @@ The canvas robotic machine is brought in after manual taping is done on day 1. M
 
 Getting beutifully finished drywall on schedule and with budget got much easier. Entire process is done in 2 days instead of 5 or 7 days. Comparing this to days where workers dug holes using a shovel until the excavator invention. Now instead of using trowels, buckets and pans, we are using machine. This increases productivity and safety.
 
+Canvas has supercharged its ability to provide better outcomes for workers and customers by collecting, consolidating, and rationalizing data based on key job and performance metrics. Through data aggregation Canvas is able to provide all their stakeholders, field workers, superintendents, engineers, and customers with customized, data-driven measures of success. Formant’s data-centric approach has given Canvas the visibility and insights to grow and delight customers without taking their eyes off performance.
+
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-* How is your company performing relative to competitors in the same field?
 
 ## Recommendations
 
