@@ -2,7 +2,7 @@
 Module-1-Challenge-ai-case-study
 
 # BUILT Robotics (CANVAS)
-![Built Robotics](images/image.png)
+![Built Robotics](./images/image.png)
 
 ## Overview and Origin
 
