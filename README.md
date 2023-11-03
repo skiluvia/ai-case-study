@@ -23,7 +23,7 @@ There were a few criteria the company looked at to come up with the design solut
 
 The company has raised $24M years ago. It is reported that the company has 11 investors, some of them being **Innovation Endeavors** from New York, **Brick & Mortar Ventures** and **Obvious Ventures** both from California. Currently market is large commercial construction projects with large amount of drywall. The future of the company is to reach to smaller projects such as one at regular homes.
 
-Competitors are Robosurf which provides autonomous mobile robots and mobile robot painters for surface finishing and spray painting; Dafang Intelligent Technology which focuses on the design and production of intelligent building construction equipment and a few more. The major difference Canvas has is the soe focus on mudding finishing stages.
+Competitors are **Robosurf** which provides autonomous mobile robots and mobile robot painters for surface finishing and spray painting; **Dafang Intelligent Technology** which focuses on the design and production of intelligent building construction equipment and a few more. The major difference Canvas has is the soe focus on mudding finishing stages.
 
 ## How it works
 Canvas system uses computer vision and artificial intelligence to be able to recognize different seams and wall types, and identify where those seems are; so that machine can profile a custome profile material. It takes conceptually less material and safer for tapers. The actual machine or device is built like a small or large scissor lift which can also reach higher walls as high as 40ft.
