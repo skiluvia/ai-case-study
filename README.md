@@ -1,5 +1,5 @@
 # ai-case-study
-Module-1-Challenge-ai-case-study
+Module-1-Challenge-ai-case-study (https://github.com/skiluvia/ai-case-study/blob/main/README.md)
 
 # CANVAS
 ![Canvas](./images/canvaslogo.png)
